@@ -1,0 +1,23 @@
+commit 29062da0c978a77d9ba706bcbb520263ebcdfe6d
+Author: Avery Baker <averybaker@averys-air.wireless.rit.edu>
+Date:   Wed Aug 28 15:27:16 2024 -0400
+
+    update me.txt
+
+commit e981c8853ce2692e9981cbae03431f2d69df6c35
+Author: Avery Baker <averybaker@averys-air.wireless.rit.edu>
+Date:   Wed Aug 28 15:21:54 2024 -0400
+
+    create me.txt
+
+commit 50ee3a304194ec060e26cf64442a9fc8cb9d1f81
+Author: unknown <628javery@gmail.com>
+Date:   Wed Jul 21 10:53:43 2021 -0400
+
+    First commit
+
+commit 41d569aeba2503d7c1699b0a3660f2d6d11eb6d7
+Author: AveryASC21 <87765140+AveryASC21@users.noreply.github.com>
+Date:   Wed Jul 21 09:50:11 2021 -0400
+
+    Initial commit
